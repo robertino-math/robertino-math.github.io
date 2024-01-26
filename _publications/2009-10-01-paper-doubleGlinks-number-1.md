@@ -8,7 +8,7 @@ venue: 'Journal of Commutative Algebra'
 paperurl: 'https://arxiv.org/abs/2209.00119'
 citation: 'Klein, Patricia. Koban, Matthew. Rajchgot, Jenna. (2024). "On Basic Double G-links of Squarefree Monomial Ideals." <i>Journal of Commutative Algebra</i>. 101(101).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](http://matt-koban.github.io/files/doubleG-links.pdf)
 
