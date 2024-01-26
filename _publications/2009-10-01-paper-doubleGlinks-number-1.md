@@ -10,6 +10,5 @@ citation: 'Klein, Patricia. Koban, Matthew. Rajchgot, Jenna. (2024). "On Basic D
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://matt-koban.github.io/files/doubleG-links.pdf)
 
-Recommended citation: Klein, Patricia. Koban, Matthew. Rajchgot, Jenna. (2024). "On Basic Double G-links of Squarefree Monomial Ideals." <i>Journal of Commutative Algebra</i>. 101(101).
