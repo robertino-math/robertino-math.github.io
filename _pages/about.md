@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Please be patient will I get the site up and running
+Hello! I am a PhD student in the Department of Mathematics at the University of Toronto. My research interests interests include complex/algebraic geometry and mathematical physics. I am currently investigating relationships between quivers, Higgs bundles, and topological quantum field theories.
+
+
