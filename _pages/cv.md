@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can be found [here](https://matt-koban.github.io/files/CV-5.pdf)
+My full CV can be found [here](https://robertino-math.github.io/files/Robert_s_CV.pdf)
 
 Education
 ======
-* B.Sc. in Mathematics, University of Saskatchewan, 2020
-* M.Sc. in Mathematics, University of Toronto, 2021
-* Ph.D in Mathematics, University of Toronto, In progress
+* Bachelor of Science, with High Honours (Majoring in Mathematical Physics), University of Saskatchewan, 2021
+* Masters of Mathematics in Pure Mathematics, University of Waterloo, 2022
+* Doctor of Philosophy in Pure Mathematics, University of Waterloo, In progress
 
 
 
