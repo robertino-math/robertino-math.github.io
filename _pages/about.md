@@ -7,6 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello! I am a PhD student in the Department of Pure Mathematics at the University of Waterloo. My research interests interests include complex/algebraic geometry and mathematical physics. I am currently investigating relationships between quivers, Higgs bundles, and topological quantum field theories.
+Hello! I am a PhD student in the Department of Pure Mathematics at the University of Waterloo. I am currently interested in Vafa-Witten Higgs bundles over surfaces and studying their moduli.
 
 
