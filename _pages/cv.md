@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV can be found [here](https://robertino-math.github.io/files/Robert_s_CV(1).pdf)
+My full CV can be found [here](https://robertino-math.github.io/files/Robert_s_CV (1).pdf)
 
 Education
 ======
