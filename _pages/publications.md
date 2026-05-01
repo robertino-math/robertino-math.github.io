@@ -8,7 +8,7 @@ author_profile: true
 ### Preprints
 
 * **Stable Wild Vafa-Witten Bundles on the Projective Plane** Robert J. Cornea  
-  *Submitted, 2026.* [[PDF](/files/vafa-witten-paper.pdf)] [[arXiv](https://arxiv.org/abs/2605.XXXXX)]
+  *Submitted to Geometriae Dedicata, April 2026.* [[PDF](/files/vafa-witten-paper.pdf)] [[arXiv](https://arxiv.org/abs/2605.XXXXX)]
 
 
 {% comment %}
