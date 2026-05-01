@@ -11,6 +11,7 @@ author_profile: true
   *Submitted, 2026.* [[PDF](files/Stable_Wild_Vafa_Witten_Bundles_on_the_Projective_Plane.pdf)] [[arXiv](https://arxiv.org/abs/2605.XXXXX)]
 
 
+{% comment %}
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -20,3 +21,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+{% endcomment %}
+
